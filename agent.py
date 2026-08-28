@@ -23,5 +23,4 @@ def main():
     ask_name()
     print("=" * 40)
 
-if __name__ == "__main__":
-    main()
+main()
